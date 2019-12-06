@@ -1,0 +1,2 @@
+class OpinionNewsShip < ApplicationRecord
+end

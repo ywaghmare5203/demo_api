@@ -1,0 +1,2 @@
+class VideoNewsShip < ApplicationRecord
+end

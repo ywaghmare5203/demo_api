@@ -1,0 +1,2 @@
+class VideoColumnShip < ApplicationRecord
+end

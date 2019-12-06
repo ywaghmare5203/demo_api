@@ -1,0 +1,2 @@
+class LinkNewsShip < ApplicationRecord
+end

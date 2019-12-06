@@ -1,0 +1,2 @@
+class NewsUser < ApplicationRecord
+end

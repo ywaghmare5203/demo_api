@@ -1,0 +1,2 @@
+class PictureNewsShip < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class YtVideo < ApplicationRecord
+end

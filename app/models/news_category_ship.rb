@@ -1,0 +1,2 @@
+class NewsCategoryShip < ApplicationRecord
+end

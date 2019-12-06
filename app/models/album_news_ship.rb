@@ -1,0 +1,2 @@
+class AlbumNewsShip < ApplicationRecord
+end
